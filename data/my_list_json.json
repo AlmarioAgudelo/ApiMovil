@@ -1,0 +1,396 @@
+{
+    "lista": [
+        {
+            "titulo": "Monitoreo de Aves",
+            "subtitulo": "Estudio a largo plazo para registrar las rutas y el estado de conservación de especies.",
+            "fechaInicio": "2024-03-01",
+            "fechaFin": "2025-03-01",
+            "ubicacion": "Parque Nacional.",
+            "puntosMuestreo": {
+                "puntoCaptura": {
+                    "nombre": "Punto de Captura",
+                    "detalle": "no aplica",
+                    "radio": "Visual",
+                    "deteccion": "30 metros",
+                    "periodo": "10 dias",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Colibrí Coliazul",
+                            "imagen": "https://example.com/images/colibri_coliazul.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/colibri_coliazul.jpg",
+                                "primeraObservacion": "2024-03-05",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta principalmente del néctar de flores rojas."
+                            }
+                        },
+                        {
+                            "nombre": "Tucancito Esmeralda",
+                            "imagen": "https://example.com/images/tucancito_esmeralda.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/tucancito_esmeralda.jpg",
+                                "primeraObservacion": "2024-04-10",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Vocalizaciones ruidosas, dispersión de semillas."
+                            }
+                        },
+                        {
+                            "nombre": "Reinita Alidorada",
+                            "imagen": "https://example.com/images/reinita_alidorada.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/reinita_alidorada.jpg",
+                                "primeraObservacion": "2024-03-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Migratoria, búsqueda de alimento en el sotobosque."
+                            }
+                        }
+                    ]
+                },
+                "puntoObservacion": {
+                    "detalle": "Punto elevado (torre de 15m) para observación del dosel y aves rapaces. Uso de binoculares.",
+                    "radio": "100 metros",
+                    "deteccion": "Observación visual y auditiva con conteos puntuales",
+                    "periodo": "Todo el año, con énfasis en amaneceres",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Águila Harpía",
+                            "imagen": "https://example.com/images/aguila_harpia.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/aguila_harpia.jpg",
+                                "primeraObservacion": "2024-05-20",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Vuelo de caza, depredador tope."
+                            }
+                        },
+                        {
+                            "nombre": "Colibrí Coliazul",
+                            "imagen": "https://example.com/images/colibri_coliazul.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/colibri_coliazul.jpg",
+                                "primeraObservacion": "2024-03-05",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta principalmente del néctar de flores rojas."
+                            }
+                        },
+                        {
+                            "nombre": "Cucarachero de Pantano",
+                            "imagen": "https://example.com/images/cucarachero_pantano.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/cucarachero_pantano.jpg",
+                                "primeraObservacion": "2024-06-15",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Canto complejo para delimitar territorio."
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "titulo": "Impacto de la Agricultura en Aves de Bosque Seco",
+            "subtitulo": "Evaluación de la diversidad aviar en parches de bosque seco tropical fragmentado.",
+            "fechaInicio": "2023-11-15",
+            "fechaFin": "2024-11-15",
+            "ubicacion": "Valle del Magdalena, Tolima",
+            "puntosMuestreo": {
+                "puntoCaptura": {
+                    "nombre": "Punto de Captura",
+                    "detalle": "no aplica",
+                    "radio": "Visual",
+                    "deteccion": "30 metros",
+                    "periodo": "10 dias",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Pava Hedionda (Hoatzin)",
+                            "imagen": "https://example.com/images/pava_hedionda.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/pava_hedionda.jpg",
+                                "primeraObservacion": "2023-12-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de hojas, ave rumiante."
+                            }
+                        },
+                        {
+                            "nombre": "Buhito de Anteojos",
+                            "imagen": "https://example.com/images/buhito_anteojos.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/buhito_anteojos.jpg",
+                                "primeraObservacion": "2024-01-20",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Rapaz nocturna, caza de roedores."
+                            }
+                        },
+                        {
+                            "nombre": "Tucancito Esmeralda",
+                            "imagen": "https://example.com/images/tucancito_esmeralda.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/tucancito_esmeralda.jpg",
+                                "primeraObservacion": "2024-04-10",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Vocalizaciones ruidosas, dispersión de semillas."
+                            }
+                        }
+                    ]
+                },
+                "puntoObservacion": {
+                    "detalle": "Transecto lineal siguiendo la ribera de un pequeño río, ideal para especies acuáticas y de borde de bosque.",
+                    "radio": "70 metros",
+                    "deteccion": "Conteo de individuos y grabación de cantos",
+                    "periodo": "Lunes, Miércoles y Viernes al atardecer",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Ibis Escarlata",
+                            "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                                "primeraObservacion": "2024-03-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de crustáceos en humedales."
+                            }
+                        },
+                        {
+                            "nombre": "Reinita Alidorada",
+                            "imagen": "https://example.com/images/reinita_alidorada.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/reinita_alidorada.jpg",
+                                "primeraObservacion": "2024-03-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Migratoria, búsqueda de alimento en el sotobosque."
+                            }
+                        },
+                        {
+                            "nombre": "Tororoi Bigotudo",
+                            "imagen": "https://example.com/images/tororoi_bigotudo.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/tororoi_bigotudo.jpg",
+                                "primeraObservacion": "2024-02-15",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Muy críptica, detectada por vocalización territorial."
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "titulo": "Conservación de Aves Playeras en Manglares del Caribe",
+            "subtitulo": "Seguimiento poblacional y análisis del impacto del turismo en aves playeras.",
+            "fechaInicio": "2024-05-10",
+            "fechaFin": "2025-05-10",
+            "ubicacion": "Ciénaga Grande de Santa Marta, Magdalena",
+            "puntosMuestreo": {
+                "puntoCaptura": {
+                    "nombre": "Punto de Captura",
+                    "detalle": "no aplica",
+                    "radio": "Visual",
+                    "deteccion": "30 metros",
+                    "periodo": "10 dias",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Flamenco del Caribe",
+                            "imagen": "https://example.com/images/flamenco_caribe.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/flamenco_caribe.jpg",
+                                "primeraObservacion": "2024-06-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Alimentación en laguna, colonias reproductivas."
+                            }
+                        },
+                        {
+                            "nombre": "Chorlito Semipalmado",
+                            "imagen": "https://example.com/images/chorlito_semipalmado.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/chorlito_semipalmado.jpg",
+                                "primeraObservacion": "2024-07-10",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Descanso en playas arenosas, migración."
+                            }
+                        },
+                        {
+                            "nombre": "Ibis Escarlata",
+                            "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                                "primeraObservacion": "2024-03-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de crustáceos en humedales."
+                            }
+                        }
+                    ]
+                },
+                "puntoObservacion": {
+                    "detalle": "Plataforma elevada para avistamiento de aves acuáticas y playeras en lagunas y ciénagas.",
+                    "radio": "120 metros",
+                    "deteccion": "Observación con telescopio terrestre",
+                    "periodo": "Septiembre a Diciembre",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Garza Real",
+                            "imagen": "https://example.com/images/garza_real.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/garza_real.jpg",
+                                "primeraObservacion": "2024-09-15",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Pesca solitaria en aguas poco profundas."
+                            }
+                        },
+                        {
+                            "nombre": "Ibis Escarlata",
+                            "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/ibis_escarlata.jpg",
+                                "primeraObservacion": "2024-03-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de crustáceos en humedales."
+                            }
+                        },
+                        {
+                            "nombre": "Flamenco del Caribe",
+                            "imagen": "https://example.com/images/flamenco_caribe.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/flamenco_caribe.jpg",
+                                "primeraObservacion": "2024-06-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Alimentación en laguna, colonias reproductivas."
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "titulo": "Efectos del Cambio Climático en Aves de Alta Montaña",
+            "subtitulo": "Investigación sobre el desplazamiento altitudinal de especies andinas.",
+            "fechaInicio": "2024-07-20",
+            "fechaFin": "2025-07-20",
+            "ubicacion": "Santuario de Fauna y Flora Iguaque, Boyacá",
+            "puntosMuestreo": {
+                "puntoCaptura": {
+                    "nombre": "Punto de Captura",
+                    "detalle": "no aplica",
+                    "radio": "Visual",
+                    "deteccion": "30 metros",
+                    "periodo": "10 dias",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Mirlo de Páramo",
+                            "imagen": "https://example.com/images/mirlo_paramo.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/mirlo_paramo.jpg",
+                                "primeraObservacion": "2024-08-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de frutos de frailejones, dispersión de semillas."
+                            }
+                        },
+                        {
+                            "nombre": "Colibrí del Páramo",
+                            "imagen": "https://example.com/images/colibri_paramo.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/colibri_paramo.jpg",
+                                "primeraObservacion": "2024-07-25",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta del néctar de flores tubulares."
+                            }
+                        },
+                        {
+                            "nombre": "Águila Harpía",
+                            "imagen": "https://example.com/images/aguila_harpia.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/aguila_harpia.jpg",
+                                "primeraObservacion": "2024-05-20",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Vuelo de caza, depredador tope."
+                            }
+                        }
+                    ]
+                },
+                "puntoObservacion": {
+                    "detalle": "Mirador natural para observar aves rapaces y especies en desplazamiento altitudinal.",
+                    "radio": "150 metros",
+                    "deteccion": "Conteo visual con telescopios",
+                    "periodo": "Todo el año",
+                    "especiesRegistradas": [
+                        {
+                            "nombre": "Águila Harpía",
+                            "imagen": "https://example.com/images/aguila_harpia.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/aguila_harpia.jpg",
+                                "primeraObservacion": "2024-05-20",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Vuelo de caza, depredador tope."
+                            }
+                        },
+                        {
+                            "nombre": "Pato de los Andes",
+                            "imagen": "https://example.com/images/pato_andes.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/pato_andes.jpg",
+                                "primeraObservacion": "2024-10-05",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Ave acuática, nada en lagunas altoandinas."
+                            }
+                        },
+                        {
+                            "nombre": "Mirlo de Páramo",
+                            "imagen": "https://example.com/images/mirlo_paramo.jpg",
+                            "ultimaActualizacion": "3-9-2025",
+                            "detalles": {
+                                "imagen": "https://example.com/images/mirlo_paramo.jpg",
+                                "primeraObservacion": "2024-08-01",
+                                "ultimaObservacion": "3-9-2025",
+                                "metodoDeteccion": "visual",
+                                "actividadesObservadas": "Se alimenta de frutos de frailejones, dispersión de semillas."
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
